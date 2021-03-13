@@ -1,0 +1,1 @@
+[{"model": "app.setting", "pk": 1, "fields": {"name": "dayly_notification", "value": "Уважаемый %s %s. Ваше фото попало в ТОП 3 сегодня."}}, {"model": "app.setting", "pk": 2, "fields": {"name": "mounthly_notification", "value": "Уважаемый %s %s. Ваше фото попало в ТОП 3 в этом месяце."}}]

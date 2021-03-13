@@ -1,0 +1,45 @@
+ERROR Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING Bad Request: /api/v1/auth/jwt/create
+WARNING "POST /api/v1/auth/jwt/create HTTP/1.0" 400 143
+WARNING Not Found: /swager
+WARNING "GET /swager HTTP/1.0" 404 179
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.0" 404 179
+WARNING Not Found: /static/drf-yasg/style.css
+WARNING Not Found: /static/drf-yasg/swagger-ui-dist/swagger-ui.css
+WARNING Not Found: /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js
+WARNING "GET /static/drf-yasg/style.css HTTP/1.0" 404 179
+WARNING Not Found: /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js
+WARNING "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.0" 404 179
+WARNING "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.0" 404 179
+WARNING "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.0" 404 179
+WARNING Not Found: /static/drf-yasg/insQ.min.js
+WARNING Not Found: /static/drf-yasg/immutable.min.js
+WARNING Not Found: /static/drf-yasg/url-polyfill.min.js
+WARNING "GET /static/drf-yasg/insQ.min.js HTTP/1.0" 404 179
+WARNING Not Found: /static/drf-yasg/swagger-ui-init.js
+WARNING "GET /static/drf-yasg/immutable.min.js HTTP/1.0" 404 179
+WARNING "GET /static/drf-yasg/url-polyfill.min.js HTTP/1.0" 404 179
+WARNING "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.0" 404 179
+WARNING Not Found: /static/drf-yasg/swagger-ui-dist/favicon-32x32.png
+WARNING "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.0" 404 179
+WARNING Not Found: /accounts/login/
+WARNING "GET /accounts/login/?next=/swagger/ HTTP/1.0" 404 179
+ERROR Invalid HTTP_HOST header: 'cca4004dfc0a:8000'. You may need to add 'cca4004dfc0a' to ALLOWED_HOSTS.
+WARNING Bad Request: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 400 62394
+ERROR Invalid HTTP_HOST header: 'cca4004dfc0a:8000'. You may need to add 'cca4004dfc0a' to ALLOWED_HOSTS.
+WARNING Bad Request: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 400 62394
+ERROR Invalid HTTP_HOST header: 'cca4004dfc0a:8000'. You may need to add 'cca4004dfc0a' to ALLOWED_HOSTS.
+WARNING Bad Request: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 400 62394
+ERROR Invalid HTTP_HOST header: '231fa52be434:8000'. You may need to add '231fa52be434' to ALLOWED_HOSTS.
+WARNING Bad Request: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 400 62446
+WARNING Bad Request: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 400 36
+WARNING Unauthorized: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.1" 401 183
+WARNING Unauthorized: /api/v1/photos/photo/create/
+WARNING "POST /api/v1/photos/photo/create/ HTTP/1.0" 401 183

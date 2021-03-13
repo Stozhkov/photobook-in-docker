@@ -1,9 +1,5 @@
 # Hello!
-##Here's my test case, prepared to run in containers.
-Original repository is here
-https://github.com/Stozhkov/photobook
-
-
+##This is my test project.
 
 Load config data:
 `python manage.py loaddata settings.json `
